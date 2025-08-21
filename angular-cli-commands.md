@@ -104,5 +104,3 @@ ng doc component                  # Open docs for a keyword
 * `--standalone` – generate standalone components/routes
 
 ---
-
-Want this as a printable one-pager PDF or tailored for Angular v20 options (signals/standalone by default)? I can convert it instantly.
